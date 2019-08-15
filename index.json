@@ -2,6 +2,8 @@
   "title": "High-Low Guessing Game",
   "chapters": [
     { "id": "overview", "title": "Overview" },
-    { "id": "concepts", "title": "Concepts" }
+    { "id": "concepts", "title": "Concepts" },
+    { "id": "create-a-script", "title": "1. Create a script" },
+    { "id": "print-the-number-range", "title": "2. Print the number range" }
   ]
 }
