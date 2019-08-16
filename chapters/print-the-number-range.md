@@ -1,4 +1,4 @@
-# 2. Print the number range
+# Print the number range
 
 Goal: Tell the player the number range they should guess between
 
