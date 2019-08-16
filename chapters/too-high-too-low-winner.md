@@ -72,7 +72,7 @@ By default, the input function gives us a number formatted like the first exampl
 It's up to us to tell Python to treat the user's guess as a number.
 
 ## Steps to change the user_guess input to a number
-**
+
 - Use a new **variable** to store the user_guess as a number
 - Use the **int function** to change the user_guess to a number
 - Compare the secret_number with the new user_guess_number in each **condition**
