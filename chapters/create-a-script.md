@@ -12,8 +12,10 @@ Goal: Create a new script for the game code
 print("High Low Game")
 ```
 
+::: callout-prompt
 **Run your script**
 You should see the output "High Low Game" in your console.
+:::
 
 ## Explanation
 

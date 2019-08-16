@@ -12,9 +12,10 @@ Goal: Generate a secret number for the user to guess
   - the maximum number
 - Use a **variable** to save the random number for later use
 
-
+::: callout-info
 **Two new code blocks!**
 Make sure you add both new code blocks. One to import the "random" package, and the other to generate the secret number.
+:::
 
 ```
 import random
@@ -40,16 +41,21 @@ user_guess = input("Guess a number and press enter: ")
 print("You guessed the number " + user_guess)
 ```
 
+::: callout-checkpoint
 **Run your code**
 Nothing will change about how the program runs.
 It should run without errors.
+:::
 
 ## Help! Errors!
+
+::: callout-error
 ```
 Traceback (most recent call last):
   File "python", line 3, in <module>
 NameError: name 'random' is not defined
 ```
+:::
 
 **NameError: name 'random' is not defined**
 This error says "random" is not a thing that exists in the script. This could be caused by:
