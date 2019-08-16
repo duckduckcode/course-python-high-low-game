@@ -4,6 +4,9 @@
     { "id": "overview", "title": "Overview" },
     { "id": "concepts", "title": "Concepts" },
     { "id": "create-a-script", "title": "1. Create a script" },
-    { "id": "print-the-number-range", "title": "2. Print the number range" }
+    { "id": "print-the-number-range", "title": "2. Print the number range" },
+    { "id": "record-the-users-guess", "title": "3: Record the user's guess" },
+    { "id": "generate-a-secret-number", "title": "4. Generate a secret number" },
+    { "id": "too-high-too-low-winner", "title": "5. Too high, too low, winner!" }
   ]
 }
